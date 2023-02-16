@@ -1,0 +1,6 @@
+include data/data1/data11/data.txt
+include data/data1/data.txt
+include data/data2/data.txt
+include data/data.txt
+include data/data1.txt
+include data/data2.txt
